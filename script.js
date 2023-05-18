@@ -1,1 +1,1 @@
-confirm("Hi everyone!");
+console.log(123);
