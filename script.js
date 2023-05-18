@@ -1,1 +1,1 @@
-alert()
+confirm("Hi everyone!");
